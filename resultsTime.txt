@@ -1,0 +1,20 @@
+Time when the program started running - 16:39:04
+Time when the program let you input a number - 16:39:04
+Time when the program received a number from input - 16:39:09
+Time when the program finished calculating - 16:39:09
+
+It took 0 milliseconds until input box appears
+It took 0 seconds until input box appears
+
+It took 5098 milliseconds for search to calculate
+It took 5 seconds for search to calculate
+
+It took 5098 milliseconds for whole program to run and finish
+It took 5 seconds for whole program to run and finish
+
+It took 5097 milliseconds whilst the input box was open
+It took 5 seconds whilst the input box was open
+
+It took 1 milliseconds to run excluding time spent with input box open
+It took 0 seconds to run excluding time spent with input box open
+
